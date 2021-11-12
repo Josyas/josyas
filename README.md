@@ -1,15 +1,15 @@
-Olá, eu sou Josias 👋
-
-Bem vindo!!!
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josyas&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josyas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Olá, eu sou Josias!!! 
 
 
-Sempre em busca do conhecimento e do aprefeiçoamento profissional e pessoal.
 
-<br/>Alem de ser louco por tecnologia. 🤓
+<div align="center">
+  <a href="https://github.com/josyas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josyas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josyas&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
 
